@@ -7,3 +7,4 @@ easierApp
 Zmiana08
 Zmiana09
 ZmianaJUK
+ZmianaKustosz
