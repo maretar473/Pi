@@ -2,3 +2,4 @@ Zmiana07a
 Dodano asystenta pomocy
 Uproszczenie interfejsu graficznego
 Zmiana08
+Zmiana09
