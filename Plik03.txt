@@ -11,3 +11,4 @@ ZmianaKustosz
 Zmiana10
 Zmiana12wKlonie
 Zmiana13
+Zmiana14
