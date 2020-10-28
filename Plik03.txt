@@ -10,3 +10,4 @@ ZmianaJUK
 ZmianaKustosz
 Zmiana10
 Zmiana12wKlonie
+Zmiana13
